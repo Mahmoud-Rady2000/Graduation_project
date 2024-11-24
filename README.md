@@ -1,4 +1,5 @@
 🎓 Graduation Project: Machine Learning Model & API
+
 This repository contains the code and resources for our Graduation Project (2023), which integrates a simple machine learning model with a RESTful API. The project demonstrates end-to-end functionality, from developing the ML model to deploying it on a server and integrating it into a mobile application.
 
 🚀 Project Overview
