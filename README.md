@@ -17,6 +17,7 @@ The API was successfully utilized in a mobile app as part of the final project s
 Deployment:
 
 Deployed the API using Render, ensuring a stable and accessible environment for the mobile application.
+
 🛠️ Technologies Used
 Machine Learning: Model training and saving using Python.
 Flask: Lightweight framework for building the RESTful API.
@@ -38,9 +39,15 @@ This project is licensed under the MIT License.
 🤝 Contact
 For more information or inquiries about the project, feel free to reach out:
 
-Name: Mahmoud Mohamed Rady
+Name: Mahmoud Mohamed Rady.
+
 Role: AI Engineer, Team Lead.
+
 Year: 2023
+
 GitHub: Mahmoud-Rady2000
+
 Email: mahmoudrady32@gmail.com
+
 https://www.linkedin.com/in/mahmoud-rady-084426243
+
